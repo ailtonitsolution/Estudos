@@ -1,2 +1,2 @@
-# Estudos
-Repositório de Projetos em Estudo 
+# Study
+Repository of study projects
